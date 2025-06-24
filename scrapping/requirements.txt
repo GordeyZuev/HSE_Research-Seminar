@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+spacy
+scikit-learn
+networkx
+pytextrank
+rake-nltk
+yake
+keybert
+transformers
+torch
+sentence-transformers 
